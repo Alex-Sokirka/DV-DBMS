@@ -1,2 +1,2 @@
 # DV-Database
-Database for medical centre "DV"
+Database management system for medical centre "DV"
